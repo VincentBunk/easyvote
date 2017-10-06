@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Easyvote\n"
+"POT-Creation-Date: 2013-06-20 00:49+0100\n"
+"PO-Revision-Date: 2013-06-20 00:51+0100\n"
+"Last-Translator: \n"
+"Language-Team: Emel Özçep, Serdar Özçep, Johannes Bouchain "
+"<bouchain@nexthamburg.de>\n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: plurals=2; plural=n>1\\n;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../easyvote.php:43
+msgid "Set the number of likes for this post"
+msgstr ""
+
+#: ../easyvote.php:48
+msgid "Edit IP list of likes for this post"
+msgstr ""
+
+#: ../easyvote.php:53
+msgid "Set the number of dislikes for this post"
+msgstr ""
+
+#: ../easyvote.php:58
+msgid "Edit IP list of dislikes for this post"
+msgstr ""
+
+#: ../easyvote.php:101
+msgid "I agree!"
+msgstr "katılıyorum!"
+
+#: ../easyvote.php:102
+msgid "I disagree!"
+msgstr "katılmıyorum!"
+
+#: ../easyvote.php:106
+msgid "You agreed!"
+msgstr "onayladın!"
+
+#: ../easyvote.php:106
+msgid "Click here if you want to disagree instead!"
+msgstr "Eğer onaylamak istemiyorsan buraya tıkla."
+
+#: ../easyvote.php:107
+msgid "You disagreed!"
+msgstr "onaylamadın!"
+
+#: ../easyvote.php:107
+msgid "Click here if you want to agree instead!"
+msgstr "Eğer onaylamak istiyorsan buraya tıkla."

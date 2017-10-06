@@ -1,0 +1,48 @@
+div.easyvote-box {
+	padding:10px;
+	background:#f0f0f0;
+	margin-bottom:20px;
+}
+form.easyvote-button-like, form.easyvote-button-dislike {
+	display:inline-block;
+	margin-right:10px;
+	vertical-align:bottom;
+}
+form.easyvote-button-like input[type="submit"], form.easyvote-button-dislike input[type="submit"] {
+	cursor:pointer;
+}
+form.easyvote-button-like input[type="submit"], form.easyvote-button-dislike input[type="submit"], p.easyvote {
+	margin:10px 0;
+	padding:10px 15px 10px 50px;
+	background:url(thumb-up.png) 8px 5px no-repeat #33cc33;
+	font-weight:normal;
+	color:white;
+	display:inline-block;
+	border:none;
+	vertical-align:bottom;
+}
+
+form.easyvote-button-dislike input[type="submit"] {
+	background:url(thumb-down.png) 8px 5px no-repeat #cc3333;
+}
+
+form.easyvote-button-like.small input[type="submit"], form.easyvote-button-dislike.small input[type="submit"],
+form.easyvote-button-like.small button[type="submit"], form.easyvote-button-dislike.small button[type="submit"] {
+	font-size:90%;
+	font-weight:300;
+	padding:0;
+	background:none;
+	color:#111111;
+	border:none;
+	text-align:left;
+	cursor:pointer;
+}
+p.easyvote {
+	margin-right:10px;
+	padding:10px 15px 10px 50px;
+	border-radius:3px;
+	background:url(thumb-up.png) 8px 8px no-repeat #33cc33;
+}
+p.easyvote.disliked {
+	background:url(thumb-down.png) 8px 8px no-repeat #cc3333;
+}
